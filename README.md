@@ -1,3 +1,28 @@
+### Toys Sales Analysis Using Power BI
+Developing an interactive dashboard for a toy company, "Maven Toys". Managers can use this dashboard to get comprehensive report about the sales of toys. The aim of this data analysis project is to create an interactive dashboard using Power BI for analyzing sales of a toy company called "Maven Toys". The project involves taking raw sales and inventory data, cleaning and transforming it into a suitable format, and then visualizing the insights through an interactive and user-friendly dashboard.
+
+## Overview
+We have been given data about the sales, products, inventory and stores in CSV format. The data describes the 820,000+ transactions for all Maven Toys stores. The data spans from January 1st 2017 to September 30th 2018.
+
+The main questions that are require to be answered are:
+
+Which product categories drive the biggest profits? Is this the same across store locations?
+Can you find any seasonal trends or patterns in the sales data?
+Are sales being lost with out-of-stock products at certain locations?
+How much money is tied up in inventory at the toy stores? How long will it last?
+
+
+# Data Cleaning and Preparation:
+The process is described as follows:
+
+Import files in Power BI.
+
+Remove Duplicate Rows from all the files.
+
+Since, all the Product_Cost and Product_Price are in text format, we convert them into integers.
+
+ ![image](https://github.com/user-attachments/assets/bb86e49e-7ee9-42cd-9659-eab4ee1b098e)
+
 ### Page 1: Monthly Sales and Performance Dashboard
 
 Purpose:

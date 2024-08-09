@@ -17,11 +17,12 @@ The data is collected from Maven Data Playground.
 We are given four files in CSV format described below:
 
 Products:
-Product_ID - ID of the Product
-Product_Name - Name of the Product
-Product_Category - Category of Product
-Product_Cost - Product Cost (USD)
-Product_Price - Retail Price (USD)
+- Product_ID - ID of the Product
+- Product_Name - Name of the Product
+- Product_Category - Category of Product
+- Product_Cost - Product Cost (USD)
+- Product_Price - Retail Price (USD)
+
 Sales:
 Sale_ID - Sale ID for each transaction
 Date - Date when the transaction occured

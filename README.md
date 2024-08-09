@@ -31,15 +31,16 @@ Sales:
 - Units - Units of product sold
 
 Stores:
-Store_ID - Unique ID given to toy store
-Store_Name - Store Name given of each toy store
-Store_City - City where the store is located
-Store_Location - Area where the store is located (Downtown,Commercial, Residential, Airport) Store_Open_Date - Store Opening Date
+- Store_ID - Unique ID given to toy store
+- Store_Name - Store Name given of each toy store
+- Store_City - City where the store is located
+- Store_Location - Area where the store is located (Downtown,Commercial, Residential, Airport) Store_Open_Date - Store Opening Date
 Inventory:
-Store_ID - Unique ID given to toy store
-Product_ID - ID of the Product
-Stock_On_Hand - Units of products currently in the inventory
+- Store_ID - Unique ID given to toy store
+- Product_ID - ID of the Product
+- Stock_On_Hand - Units of products currently in the inventory
 
+### Data Modeling 
  ![image](https://github.com/user-attachments/assets/bb86e49e-7ee9-42cd-9659-eab4ee1b098e)
 
 ### Page 1: Monthly Sales and Performance Dashboard

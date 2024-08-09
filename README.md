@@ -33,7 +33,11 @@ Key Components:
 
 Usage:
 This dashboard is ideal for product managers and sales teams to track product performance, identify best-sellers, and understand the profitability of different categories.
-![pagee11 (1)](https://github.com/user-attachments/assets/bf32188e-6fd4-4af6-89ab-83c312dae6de)
+![pro](https://github.com/user-attachments/assets/526927d4-c8d6-4652-82f8-f0020c3dc365)
+
+## Drill Through:
+![drill](https://github.com/user-attachments/assets/18f7f4ca-1e10-4e62-bcb8-078af0dde594)
+
 
 ## Page 3: Store
 
@@ -73,5 +77,8 @@ This dashboard is essential for inventory managers and operations teams to track
 
 
 ![invent](https://github.com/user-attachments/assets/06cbecaa-56a5-4569-a345-2a378fd931f3)
+
+## Drill Through:
+![dr](https://github.com/user-attachments/assets/4b757517-7acd-4dcd-82ce-af866e255f1f)
 
 

@@ -11,15 +11,32 @@ Can you find any seasonal trends or patterns in the sales data?
 Are sales being lost with out-of-stock products at certain locations?
 How much money is tied up in inventory at the toy stores? How long will it last?
 
+### Data Collection and Description:
+The data is collected from Maven Data Playground.
 
-# Data Cleaning and Preparation:
-The process is described as follows:
+We are given four files in CSV format described below:
 
-Import files in Power BI.
-
-Remove Duplicate Rows from all the files.
-
-Since, all the Product_Cost and Product_Price are in text format, we convert them into integers.
+Products:
+Product_ID - ID of the Product
+Product_Name - Name of the Product
+Product_Category - Category of Product
+Product_Cost - Product Cost (USD)
+Product_Price - Retail Price (USD)
+Sales:
+Sale_ID - Sale ID for each transaction
+Date - Date when the transaction occured
+Store_ID - Unique ID given to toy store
+Product_ID - ID of the Product
+Units - Units of product sold
+Stores:
+Store_ID - Unique ID given to toy store
+Store_Name - Store Name given of each toy store
+Store_City - City where the store is located
+Store_Location - Area where the store is located (Downtown,Commercial, Residential, Airport) Store_Open_Date - Store Opening Date
+Inventory:
+Store_ID - Unique ID given to toy store
+Product_ID - ID of the Product
+Stock_On_Hand - Units of products currently in the inventory
 
  ![image](https://github.com/user-attachments/assets/bb86e49e-7ee9-42cd-9659-eab4ee1b098e)
 

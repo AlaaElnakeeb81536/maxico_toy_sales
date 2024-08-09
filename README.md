@@ -24,11 +24,12 @@ Products:
 - Product_Price - Retail Price (USD)
 
 Sales:
-Sale_ID - Sale ID for each transaction
-Date - Date when the transaction occured
-Store_ID - Unique ID given to toy store
-Product_ID - ID of the Product
-Units - Units of product sold
+- Sale_ID - Sale ID for each transaction
+- Date - Date when the transaction occured
+- Store_ID - Unique ID given to toy store
+- Product_ID - ID of the Product
+- Units - Units of product sold
+
 Stores:
 Store_ID - Unique ID given to toy store
 Store_Name - Store Name given of each toy store

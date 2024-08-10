@@ -41,7 +41,7 @@ Inventory:
 - Stock_On_Hand - Units of products currently in the inventory
 
 ### Data Modeling 
- ![image](https://github.com/user-attachments/assets/bb86e49e-7ee9-42cd-9659-eab4ee1b098e)
+![image](https://github.com/user-attachments/assets/0a163322-9bb2-4dc6-aa4e-9263930c3ebd)
 
 ### Page 1: Monthly Sales and Performance Dashboard
 

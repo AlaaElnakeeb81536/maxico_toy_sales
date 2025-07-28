@@ -20,15 +20,6 @@ How much money is tied up in inventory at the toy stores? How long will it last?
 Purpose:
 This dashboard focuses on the monthly performance metrics, including profit, revenue, cost, and order count. It is crucial for tracking monthly progress towards goals.
 
-Key Components:
-1. Total Profit Current Month (180.45K): Displays the total profit for the current month, with a comparison to the set goal.
-2. Total Revenue Current Month (658.19K): Shows the revenue earned this month, compared to the target.
-3. Total Cost Current Month (477.75K): Represents the total cost incurred during the current month.
-4. Total Orders Current Month (41,830): The total number of orders placed in the current month, with a goal comparison.
-5. Total Sales (14.44M), Total Profit (4.01M), and Count Order (829K): Summarizes the overall sales, profit, and order count.
-6. Count Orders by Product Category: A treemap chart showing the distribution of orders across different product categories.
-7. Count Orders by Month: A line graph tracking the number of orders received each month, providing a view of seasonal trends.
-
 Usage:
 This dashboard is vital for monthly performance reviews, helping the management team to monitor key performance indicators (KPIs) against targets and make informed adjustments.
 
@@ -39,14 +30,6 @@ This dashboard is vital for monthly performance reviews, helping the management 
 Purpose:
 This dashboard provides detailed insights into product performance, including sales, average pricing, and profits, segmented by product categories.
 
-Key Components:
-1. Total Products (35): The total number of products analyzed on this dashboard.
-2. Average Price ($13.772): The average price of all products.
-3. Total Quantity (1.091M): The total quantity of products sold.
-4. Top 5 Products Over YTD Sales: A bar chart highlighting the top 5 products by year-to-date (YTD) sales, such as Lego Bricks and Colorbuds.
-5. Top 5 Products Over Profit: Similar to the YTD sales chart, but ranked by profit contribution.
-6. Product Category Breakdown: A table showing the total products, orders, quantities, profit, and sales for each product category.
-7. Revenue and Costs by Product Category: A bar chart comparing the total sales and total costs across different product categories, illustrating profitability.
 
 Usage:
 This dashboard is ideal for product managers and sales teams to track product performance, identify best-sellers, and understand the profitability of different categories.
@@ -61,15 +44,6 @@ This dashboard is ideal for product managers and sales teams to track product pe
 Purpose:
 The Overview Dashboard provides a high-level summary of the company's store locations, expansion history, and profitability across different store locations and product categories.
 
-Key Components:
-1. First Store Opened (1992): This metric shows the year the first store was opened, providing historical context.
-2. Covered Cities (29): Indicates the number of cities where the stores are currently operational.
-3. Number of Branches (50): The total number of branches across all locations.
-4. Total Profit by Store Location and Product Category: A bar chart displaying profit contributions by different product categories (Art & Crafts, Electronics, Games, etc.) in various store locations (Downtown, Commercial, Residential, Airport).
-5. Branches by Location: A donut chart representing the distribution of branches across different locations.
-6. Number of Branches Opened Over the Years: A line graph showing the timeline of branch openings, indicating periods of rapid expansion.
-7. 
-These documentations provide a comprehensive guide to understanding and utilizing each dashboard effectively. Let me know if you need further details!
 
 Usage:
 This dashboard is useful for understanding the geographic and temporal spread of the company’s operations, as well as identifying which locations and product categories are most profitable.

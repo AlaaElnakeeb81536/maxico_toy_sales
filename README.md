@@ -11,34 +11,6 @@ Can you find any seasonal trends or patterns in the sales data?
 Are sales being lost with out-of-stock products at certain locations?
 How much money is tied up in inventory at the toy stores? How long will it last?
 
-### Data Collection and Description:
-The data is collected from Maven Data Playground.
-
-We are given four files in CSV format described below:
-
-Products:
-- Product_ID - ID of the Product
-- Product_Name - Name of the Product
-- Product_Category - Category of Product
-- Product_Cost - Product Cost (USD)
-- Product_Price - Retail Price (USD)
-
-Sales:
-- Sale_ID - Sale ID for each transaction
-- Date - Date when the transaction occured
-- Store_ID - Unique ID given to toy store
-- Product_ID - ID of the Product
-- Units - Units of product sold
-
-Stores:
-- Store_ID - Unique ID given to toy store
-- Store_Name - Store Name given of each toy store
-- Store_City - City where the store is located
-- Store_Location - Area where the store is located (Downtown,Commercial, Residential, Airport) Store_Open_Date - Store Opening Date
-Inventory:
-- Store_ID - Unique ID given to toy store
-- Product_ID - ID of the Product
-- Stock_On_Hand - Units of products currently in the inventory
 
 ### Data Modeling 
 ![image](https://github.com/user-attachments/assets/0a163322-9bb2-4dc6-aa4e-9263930c3ebd)
